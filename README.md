@@ -1,5 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4999&pause=1300&color=C9E3F4&background=000000&center=true&vCenter=true&width=1038&height=85&lines=Hi%2C+I+am+Ugochukwu+Igweagu+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
+<h4 align="left" style="padding: 15px; margin: 15px;">I am a Computer science and Math major at Grambling State University, with a strong passion for Artificial Intelligence and Machine Learning. Let's connect and build something cool.</h3>
+
+
 # 💫 About Me:
-I am really passionate about Artificial Intelligence, and Machine Learning.<br>I enjoy solving complex problems, optimizing machine learning pipelines, and working with deep learning frameworks like PyTorch and TensorFlow.<br>Currently, I am looking for **Software Engineering**, **Product Management**, and **Machine learning** internships to further hone my skills, gain experience, and work on impactful projects.
+I enjoy solving complex problems, optimizing machine learning pipelines, and working with deep learning frameworks like PyTorch and TensorFlow. Currently, I am looking for **Software Engineering**, **Product Management**, and **Machine learning** internships to further hone my skills, gain experience, and work on impactful projects.
 
 
 ## 🌐 Socials:
