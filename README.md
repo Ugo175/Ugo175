@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4999&pause=1300&color=C9E3F4&background=000000&center=true&vCenter=true&width=1038&height=85&lines=Hi%2C+I+am+Ugochukwu+Igweagu+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-<h4 align="left" style="padding: 15px; margin: 15px;">I am a Computer science Major with a Minor in Business management at Grambling State University, with a strong passion for Software/Systems Engineering, Machine Learning, and Entrepreneurship. Let's connect and build something cool!</h3>
+<h4 align="left" style="padding: 15px; margin: 15px;">I am a Computer science Major with a Minor in Business management at Grambling State University. I have a strong passion for Software/Systems Engineering, Machine Learning, and Entrepreneurship. Let's connect and build something cool!</h3>
 
 
 # 💫 About Me:
