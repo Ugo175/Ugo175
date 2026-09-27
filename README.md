@@ -229,13 +229,6 @@ Collaborated with other students to organize and host **conferences and hackatho
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ugo175&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo175&theme=dark&hide_border=true&layout=compact" />
-</p>
-
 ---
 
 # 🤝 Let's Connect
