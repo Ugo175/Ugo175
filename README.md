@@ -30,7 +30,7 @@
 
 I'm a **Computer Science major with a minor in Business Management at Grambling State University**, passionate about building software that solves real-world problems.
 
-My interests sit at the intersection of **software engineering, backend systems, machine learning, and product development**. I enjoy understanding how systems work under the hood, designing APIs and data-driven applications, and experimenting with machine learning to solve problems that traditional software approaches may not address.
+My interests sit at the intersection of **software engineering, backend systems, machine learning, technology consulting and product development**. I enjoy understanding how systems work under the hood, designing APIs and data-driven applications, and experimenting with machine learning to solve problems that traditional software approaches may not address.
 
 I'm particularly interested in:
 
