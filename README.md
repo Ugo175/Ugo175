@@ -208,7 +208,7 @@ I'm continuously expanding my engineering toolkit, with a current focus on:
 
 # 🏫 Leadership & Experience
 
-### Johns Hopkins — AI & Leadership Program
+### Johns Hopkins, AI & Leadership Program
 
 Worked with **100+ high school students** during a five-week AI program alongside industry professionals.
 
@@ -223,7 +223,7 @@ I also helped design and deliver **leadership development workshops** focused on
 
 ---
 
-### Grambling State University — Technology & Student Leadership
+### Grambling State University, Technology & Student Leadership
 
 Collaborated with other students to organize and host **conferences and hackathons** aimed at strengthening the university's technology community and encouraging students to pursue careers in technology.
 
