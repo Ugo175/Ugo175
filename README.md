@@ -116,21 +116,6 @@ The project helped strengthen my understanding of:
 
 ---
 
-### 🗳️ Ranked-Choice Voting System
-
-Implemented a ranked-choice voting system in C using candidate structures, preference arrays, vote counting, and runoff logic.
-
-The project strengthened my understanding of:
-
-* C programming
-* Arrays and data structures
-* Algorithmic problem solving
-* Memory and program organization
-
-**Tech:** C
-
----
-
 # 💻 Technical Skills
 
 ### Languages
